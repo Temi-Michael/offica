@@ -174,7 +174,7 @@
   width: 80%;
   height: 90vh;
   display: block;
-  align-content: center;
+  align-items: center;
   margin: 0 auto;
 }
 
@@ -214,14 +214,14 @@
 .sect3-left {
   flex: 1;
   background-color: #E3EAED;
+  display: flex;
+  align-items: center;
 
 }
 
 .sect3-left-info {
-  background: #989aec;
   width: 386px;
   height: 329px;
-  display: grid;
   margin: auto;
   
   
